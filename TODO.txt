@@ -1,1 +1,3 @@
 disuruh "put some text"
+
+add some text for commit --amend exercise
