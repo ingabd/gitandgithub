@@ -1,3 +1,0 @@
-adding some text to DONE.txt
-
-new text for git diff
