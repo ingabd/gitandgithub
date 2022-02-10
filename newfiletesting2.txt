@@ -1,5 +1,0 @@
-add some text for review
-
-you can git diff (= git show) and check each modified line and give them comments
-
-add text to introduce confict
