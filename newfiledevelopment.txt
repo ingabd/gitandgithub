@@ -1,1 +1,1 @@
-Add new text as edit, incoming newfiledevelopment.txt from remote will be empty, hence cause conflict.
+Different text to introduce conflict.
